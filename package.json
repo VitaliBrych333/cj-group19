@@ -1,0 +1,19 @@
+{
+  "name": "cj-group19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliBrych333/cj-group19.git"
+  },
+  "author": "dream team number 19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliBrych333/cj-group19/issues"
+  },
+  "homepage": "https://github.com/VitaliBrych333/cj-group19#readme"
+}
