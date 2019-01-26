@@ -7,25 +7,26 @@
     <link rel="stylesheet" href="./css/style.css">
     <title>Portal about architects of Belarus</title>
 </head>
-<body>
+<body onload="load()">
   <header>
-    <a href=""><h1>Portal about architects of Belarus</h1></a>    
+    <a href=""><h1 id="name">Portal about architects of Belarus</h1></a>    
     <div class="wrapper-nav">
       <nav>
         <ul>
-          <li class="active"><a href="">Main</a></li>
-          <li><a href="">List of architects</a></li>
-          <li><a href="">About team</a></li>
+          <li class="active"><a href="" id="main">Main</a></li>
+          <li><a href="" id="list">List of architects</a></li>
+          <li><a href="" id="about">About us</a></li>
         </ul>
       </nav>
-      <div class="langs">
-        <span class="selected"><a href="">by</a></span>
-        <span><a href="">ru</a></span>
-        <span><a href="">en</a></span>
+      <div class="langs" id="langs">
+        <a href="#">by</a>
+        <a href="#">ru</a>
+        <a href="#" class="selected">en</a>
       </div>
     </div>    
   </header>
   <main>    
-  </main>  
+  </main>   
+  <script type="text/javascript" src="./js/script.js"></script>
 </body>
 </html>

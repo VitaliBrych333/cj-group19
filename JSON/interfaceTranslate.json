@@ -1,0 +1,26 @@
+[
+  {
+    "en": {
+      "name": "Portal about architects of Belarus",
+      "main": "Main",
+      "list": "List of architects",
+      "about": "About us"
+    }
+  },
+  {
+    "by": {
+      "name": "Партал пра архітэктараў Беларусі",
+      "main": "Галоўная",
+      "list": "Спіс архітэктараў",
+      "about": "Пра нас"
+    }
+  },
+  {
+    "ru": {
+      "name": "Портал про архитекторов Беларуси",
+      "main": "Главная",
+      "list": "Список архитекторов",
+      "about": "Про нас"
+    }
+  }
+]
