@@ -80,6 +80,130 @@ nav li:hover a, .langs a:hover {
   color: rgb(12, 7, 7);   
 }
 
+.wrapper-main {
+  display: flex;
+  justify-content: center;
+}
+main {
+  display: flex;
+  flex-direction: column;  
+}
+
+section, article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 60px;
+}
+
+section {
+  width: 65%;
+}
+
+article {
+  width: 20%; 
+  border: 2px solid black;
+  margin: 60px 0 60px 15px;
+  padding: 15px;
+  background-color: rgb(247, 242, 242);
+  border-radius: 15px;  
+}
+
+section img {
+  width: 150px;
+  height: 100px;
+  border-radius: 50%; 
+  margin: 15px;   
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+}
+
+h2 {
+  font-family: HelveticaLight, sans-serif;
+  font-size: 30px;
+  color: rgb(12, 7, 7); 
+  text-shadow: 0 0 10px rgba(0,0,0,0.5); 
+}
+
+main p {
+  font-family: HelveticaLight, sans-serif;
+  font-size: 20px;
+  color: rgb(12, 7, 7); 
+  text-align: center;
+  margin: 30px 5px;
+}
+
+article figure img {
+  width: 100px;
+  height: 70px;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+h3, h4 article figcaption, article figcaption a {
+  font-family: HelveticaLight, sans-serif;  
+  color: rgb(12, 7, 7); 
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+figcaption {  
+  font-size: 16px;  
+}
+
+article figcaption a {  
+  font-size: 16px; 
+  color: rgb(243, 44, 44);  
+}
+
+.team {
+  display: flex;
+  flex-direction: column; 
+}
+
+.team img {
+  width: 100px;
+  height: 105px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(253, 164, 164, 0.5); 
+}
+
+.team figcaption {
+  text-align: center;  
+}
+
+.team a {
+  display: block;
+  font-family: HelveticaLight, sans-serif;
+  font-size: 15px;
+  color: rgb(141, 23, 170);
+  text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
+
+.wrapper-team {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 50px 10px;
+}
+
+@media screen and (max-width: 717px) {
+  main {    
+    margin-top: 100px;  
+  }
+
+  .team a {
+    font-size: 10px;
+  }
+}
+
 @media screen and (max-width: 670px) {
   header {
     height: 200px;
@@ -88,6 +212,10 @@ nav li:hover a, .langs a:hover {
   h1 {
     margin-top: 80px;
     font-size: 25px;
+  }
+
+  main {    
+    margin-top: 60px;  
   }
 
   .wrapper-nav {     
@@ -101,6 +229,22 @@ nav li:hover a, .langs a:hover {
   }
 }
 
+@media screen and (max-width: 500px) {
+  article {
+    display: none;
+  }
+
+  section {
+    width: 100%;
+  }
+
+  .wrapper-team {    
+    flex-direction: column;
+    align-items: center    
+  }
+  
+}
+
 @media screen and (max-width: 442px) {
   nav li {    
     padding: 10px 5px;
@@ -110,5 +254,4 @@ nav li:hover a, .langs a:hover {
     height: 50px;    
     font-size: 12px;    
   }
-
 }

@@ -1,0 +1,21 @@
+{  
+  "parser": "babel-eslint",
+    "rules": {
+      "no-console":0,
+      "indent": ["error", 4],
+      "no-unused-vars": 0,
+      "no-mixed-operators": 0,
+      "no-restricted-globals": 0,
+      "eslint no-return-assign": 0,
+      "eslint arrow-body-style": [3, "never"]
+  },
+  "extends": ["airbnb-base"],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jquery": true
+  },
+  "globals": {
+    "document": false
+  }  
+}

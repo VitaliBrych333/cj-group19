@@ -4,7 +4,11 @@
       "name": "Portal about architects of Belarus",
       "main": "Main",
       "list": "List of architects",
-      "about": "About us"
+      "nameText": "Portal about architects",
+      "textOne": "The portal is intended for acquaintance with outstanding figures of architecture from Belarus. Here, you can find information about our compatriots who left a significant mark in the development of the architecture of Belarus. Here are collected their biography with interesting facts, a photo gallery of their work, videos related to their activities or the era in which they lived, and much more.",
+      "textTwo": "The portal is designed to promote interest in the architecture of Belarus and the history of their country.",
+      "author": "Author of the day",
+      "article": "Yulia Popko <a href='https://www.sb.by/articles/po-glavnoy-ulitse-s-proektom.html'>On the main street with a project..."
     }
   },
   {
@@ -12,7 +16,11 @@
       "name": "Партал пра архітэктараў Беларусі",
       "main": "Галоўная",
       "list": "Спіс архітэктараў",
-      "about": "Пра нас"
+      "nameText": "Партал пра архітэктараў",
+      "textOne": "Партал прызначаны для азнаямлення з выбітнымі дзеячамі архітэктуры з Беларусі. Тут, вы зможаце знайсці інфармацыю пра нашых суайчыннікаў, якія пакінулі прыкметны след у развіцці архітэктуры Беларусі. Тут сабраныя іх біяграфія з цікавымі фактамі, фота-галерэя іх працы, відэа, адноснае да іх дзейнасьці альбо эпосе, у якой яны жылі і шмат іншае.",
+      "textTwo": "Партал прызначаны для папулярызацыі зацікаўленнасьці да архітэктуры Беларусі і гісторыі сваёй краіны.",
+      "author": "Аўтар дня",
+      "article": "Юлія Папко <a href='https://www.sb.by/articles/po-glavnoy-ulitse-s-proektom.html'>Па галоўнай вуліцы з праектам..."
     }
   },
   {
@@ -20,7 +28,11 @@
       "name": "Портал про архитекторов Беларуси",
       "main": "Главная",
       "list": "Список архитекторов",
-      "about": "Про нас"
+      "nameText": "Портал про архитекторов",
+      "textOne": "Портал предназначен для ознакомления с выдающимися деятелями архитектуры из Беларуси. Здесь, вы сможете найти информацию про наших соотечетвенников, которые оставили заметный след в развитии архитектуры Беларуси. Здесь собраны их биография с интересными фактами, фото-галерея их работ, видео, относящеесяк их деятельности либо эпохе, в которой они жили и многое другое.",
+      "textTwo": "Портал предназначен для популяризации интереса к архитектуре Беларуси и истории своей страны.",
+      "author": "Автор дня",
+      "article": "Юлия Попко <a href='https://www.sb.by/articles/po-glavnoy-ulitse-s-proektom.html'>По главной улице с проектом..."
     }
   }
 ]
