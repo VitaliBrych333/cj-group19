@@ -1,0 +1,143 @@
+[
+  {
+    "en": {
+      "name": "Portal about architects of Belarus",
+      "main": "Main",
+      "list": "List of architects",
+      "searchContainer": "Architectors list",
+      "selectorOne": "Filter",
+      "selectorTwo": "Name",
+      "selectorThree": "Place",
+      "person1": {
+        name: "Baklanov Mikhail Ivanovich",
+        place: "Place of Birth:",
+        city: "Ivanovka",
+        discription: "Belarusian Soviet architect. Honored Architect of the Byelorussian SSR (1969). born - January 30 (February 12), 1914, village Ivanovka (now Volnovakhsky district, Donetsk region of Ukraine) 1931 - graduated from the school of factory education in Donetsk worked as a draftsman at the local metallurgical plant.",
+      },
+      "person2": {
+        name: "Korol Vladimir Adamovich",
+        place: "Place of Birth:",
+        city: "Hegumen",
+        discription: "December 14 (27) 1912 - May 28, 1980) - Soviet architect.People's Architect of the USSR (1970). Member of the CPSU (b) since 1940. born 14(27) December 1912 in the town of Igumen(now Cherven Minsk region of Belarus).1931 - graduated from the Vitebsk Art College. Some years worked as a teacher and director of a school in Dzerzhinsk Minsk region. From 1934 to 1941 - he studied at the Faculty of Architecture All-Russian Academy of Arts, successfully defended his thesis the project, and immediately after graduating from the Academy, he was enrolled graduate school.",
+      },
+      "person3": {
+        name: "Longbard Iosif Grigorievich",
+        place: "Place of Birth:",
+        city: "Minsk",
+        discription: "Belarusian Soviet architect, honored artist Belarusian SSR (1934), winner of the Grand Prix of the World Exhibition in Paris, 1937, Doctor of Architecture (since 1939). Is one of the outstanding architects of Europe of the XX century, whose artistic heritage had a significant impact on development of modern architecture. His architectural work in greatly influenced the formation of the image of the city Minsk and are examples of Belarusian architecture.",
+      },
+      "person4": {
+        name: "Levin Leonid Mendelevich",
+        place: "Place of Birth:",
+        city: "Minsk",
+        discription: "Deserved Architect of the Republic of Belarus, Laureate of the Lenin Prize and Lenin Komsomol Prize, Volgogradsky Prize Winner Komsomol, twice winner of the State Prize of the Republic Belarus, winner of many prestigious contests and shows Architectural Works, Academician of International and Belarusian Academy of Architecture, Chairman of the Union of Belarus Jewish public associations and communities since 1991. One of the authors of the memorial comple 'Khatyn', for which (in team of authors) was awarded the Lenin Prize.",
+      },
+      "person5": {
+        name: "Parusnikov Mikhail Pavlovich",
+        place: "Place of Birth:",
+        city: "Moscow",
+        discription: "(1893-1968) - Soviet architect, member of the AA of the USSR (1950), academician of the Academy of Sciences of the BSSR (1950; corresponding member since 1947). Teacher Professor (since 1948). Winner of the State Prize of the Belarusian SSR (1968). 1913 - 1918 studied at the Moscow School of Painting, Sculpture and Architecture",
+      },
+      "person6": {
+        name: "Shabunevsky Stanislav Danilovich",
+        place: "Place of Birth:",
+        city: "Skorodnoe",
+        discription: "(December 2, 1866/1868, p. Skorodnoe, now the Elsk district of the Gomel region - after 1937, Belomorkanal, GULAG) - Belarusian architect, author a significant part of the building of Gomel beginning of XX century. Honorable citizen of Gomel. Since 1897 S. Shabunevsky served in Gomel at the post urban architect.",
+      },
+    }
+  },
+  {
+    "by": {
+      "name": "Партал пра архітэктараў Беларусі",
+      "main": "Галоўная",
+      "list": "Спіс архітэктараў",
+      "searchContainer": "Спіс архітэктараў",
+      "selectorOne": "фільтр",
+      "selectorTwo": "імя",
+      "selectorThree": "месца",
+      "person1": {
+        name: "Бакланаў Міхаіл Іванавіч",
+        place: "Месца нараджэння:",
+        city: "Іванаўка",
+        discription: "Беларускі савецкі архітэктар. Заслужаны архітэктар БССР (1969). нарадзіўся - 30 студзеня (12 лютага) 1914 гады, вёска Іванаўка (цяпер Volnovakhsky раён, Данецкая вобласць Украіны) 1931 - скончыў школу завадскога навучання ў Данецку працаваў чарцёжнікам на мясцовым металургічным заводзе.",
+      },
+      "person2": {
+        name: "Каралём Уладзімір Адамовіч",
+        place: "Месца нараджэння:",
+        city: "Ігумен",
+        discription: "14 снежня (27) 1912 - 28 мая 1980 г.) - архітэктар Савецкага architect.People ў СССР (1970). Член ВКП (б) з 1940 год нарадзіўся 14 (27) снежань 1912 года ў горадзе ігумен (цяпер Чэрвень Мінскай вобласці Беларусі) .1931 - скончыў Віцебскае мастацкае вучылішча. Некалькі гадоў працаваў настаўнікам і дырэктарам школы ў Дзяржынску Мінскай вобласці. З 1934 па 1941 - вучыўся на факультэце архітэктуры Усерасійскай Акадэміі мастацтваў, паспяхова абараніў дысертацыю на праект, і адразу ж пасля заканчэння Акадэміі, ён паступіў у аспірантуру.",
+      },
+      "person3": {
+        name: "Лангбард Іосіф Рыгоравіч",
+        place: "Месца нараджэння:",
+        city: "Мінск",
+        discription: "Беларускі савецкі архітэктар, заслужаны артыст БССР (1934), уладальнік Гран-пры на Сусветнай выставе ў Парыжы, 1937 г., доктар архітэктуры (з 1939 года). Ці з'яўляецца адзін з выбітных архітэктараў Еўропы ХХ стагоддзя, чыё творчая спадчына аказала значны ўплыў на развіццё сучаснай архітэктуры. Яго архітэктурныя працы ў значнай ступені паўплывалі на фарміраванне іміджу горада Мінск і прыклады беларускай архітэктуры.",
+      },
+      "person4": {
+        name: "Левін Леанід Мендзелевіч",
+        place: "Месца нараджэння:",
+        city: "Мінск",
+        discription: "Заслужанае архітэктар Рэспублікі Беларусь, лаўрэат Ленінскай прэміі і прэміі Ленінскага камсамола, Валгаградскім прызёр камсамола, двойчы лаўрэат Дзяржаўнай прэміі Рэспублікі Беларусь, лаўрэат шматлікіх прэстыжных конкурсаў і паказвае архітэктурныя працы, акадэмік Міжнароднай і Беларускай акадэміі архітэктуры, старшыня Саюза беларускіх яўрэйскіх грамадскіх аб'яднанняў і абшчын з 1991 года Адзін з аўтараў мемарыяльнага Комплексы «Хатынь», для якога (у камандзе аўтараў) быў удастоены Ленінскай прэміі.",
+      },
+      "person5": {
+        name: "Паруснікаў Міхаіл Паўлавіч",
+        place: "Месца нараджэння:",
+        city: "Масква",
+        discription: "(1893-1968) - савецкі архітэктар, член АА СССР (1950), акадэмік Акадэміі навук БССР (1950; член-карэспандэнт з 1947). Выкладчык, прафесар (з 1948 года). Лаўрэат Дзяржаўнай прэміі БССР (1968). 1913 - 1918 вучыўся ў Маскоўскім вучылішчы жывапісу, скульптуры і дойлідства",
+      },
+      "person6": {
+        name: "Шабунеўскi Станіслаў Данілавіч",
+        place: "Месца нараджэння:",
+        city: "Скароднае",
+        discription: "(2 снежня, 1866/1868, сяло Скароднае, цяпер Ельскі раён Гомельскай вобласці. - пасля 1937 году, Беламорканал, ГУЛАГ) - беларускі архітэктар, аўтар значнай часткі будынка Гомельскага пачатку XX стагоддзя. Ганаровы грамадзянін горада Гомеля. З 1897 года С. Shabunevsky служыў у Гомелі на пасаду гарадскога архітэктара.",
+      },
+    }
+  },
+  {
+    "ru": {
+      "name": "Портал про архитекторов Беларуси",
+      "main": "Главная",
+      "list": "Список архитекторов",
+      "searchContainer": "Список архитекторов",
+      "selectorOne": "Фильтр",
+      "selectorTwo": "Имя",
+      "selectorThree": "Место",
+      "person1": {
+        name: "Бакланов Михаил Иванович",
+        place: "Место рождения:",
+        city: "Ивановка",
+        discription: "Белорусский советский архитектор. Заслуженный архитектор БССР (1969). родился - 30 января (12 февраля) 1914 года, деревня Ивановка (сейчас Volnovakhsky район, Донецкая область Украины) тысяче девятьсот тридцать один - окончил школу заводского обучения в Донецке работал чертежником на местном металлургическом заводе.",
+      },
+      "person2": {
+        name: "Король Владимир Адамович",
+        place: "Место рождения:",
+        city: "Игумен",
+        discription: "14 декабря (27) 1912 - 28 моя 1980 года) - архитектор Советского architect.People в СССР (1970). Член ВКП (б) с 1940 года родился 14 (27) декабрь 1912 года в городе игумен (ныне Червень Минской области Беларуси) .1931 - окончил Витебское художественное училище. Несколько лет работал учителем и директором школы в Дзержинске Минской области. С 1934 по 1941 - учился на факультете архитектуры Всероссийской Академии художеств, успешно защитил диссертацию на проект, и сразу же после окончания Академии, он поступил в аспирантуру.",
+      },
+      "person3": {
+        name: "Лангбард Иосиф Григорьевич",
+        place: "Место рождения:",
+        city: "Минск",
+        discription: "Белорусский советский архитектор, заслуженный артист БССР (1934), обладатель Гран-при на Всемирной выставке в Париже, 1937 г. доктор архитектуры (с 1939 года). Является ли один из выдающихся архитекторов Европы ХХ века, чье творческое наследие оказало значительное влияние на развитие современной архитектуры. Его архитектурные работы в значительной степени повлияли на формирование имиджа города Минск и примеры белорусского архитектуры.",
+      },
+      "person4": {
+        name: "Левин Леонид Менделевич",
+        place: "Место рождения:",
+        city: "Минск",
+        discription: "Заслуженный архитектор Республики Беларусь, лауреат Ленинской премии и премии Ленинского комсомола, Волгоградском призер комсомола, дважды лауреат Государственной премии Республики Беларусь, лауреат многих престижных конкурсов и показывает архитектурные работы, академик Международной и Белорусского академии архитектуры, председатель Союза белорусских еврейских общественных объединений и общин с 1991 года единого из авторов мемориального комплекса «Хатынь», для которого (в команде авторов) был удостоен Ленинской премии.",
+      },
+      "person5": {
+        name: "Парусников Михаил Павлович",
+        place: "Место рождения:",
+        city: "Москва",
+        discription: "(1893-1968) - советский архитектор, член АА СССР (1950), академик Академии наук БССР (1950; член-корреспондент с 1947). Преподаватель, профессор (с 1948 года). Лауреат Государственной премии БССР (1968). 1913 - 1918 учился в Московском училище живописи, ваяния и зодчества",
+      },
+      "person6": {
+        name: "Шабуневский Станислав Данилович",
+        place: "Место рождения:",
+        city: "Скородное",
+        discription: "(2 декабря, 1866/1868, село Скородное, сейчас Ельский район Гомельской области. - после 1937 года, Беломорканал, ГУЛАГ) - белорусский архитектор, автор значительной части здания Гомельского начала XX века. Почетный гражданин города Гомеля. С 1897 года С. Shabunevsky служил в Гомеле на должность городского архитектора.",
+      },
+    }
+  }
+]
