@@ -205,7 +205,7 @@ nav li:hover a,
 }
 
 .wrapper_list {
-  width: 100%;
+  width: 84%;
   max-width: 1200px;
   margin: auto;
   height: 100%;
@@ -338,16 +338,28 @@ a:nth-child(6) .photo {
     padding-right: 40px;
   }
 
-  main {
-    margin-top: 44px;
-  }
-
   .team a {
     font-size: 10px;
   }
 }
 
+@media screen and (max-width: 830px) {
+  body {
+    width: 110%;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  body {
+    width: 112%;
+  }
+}
+
 @media screen and (max-width: 670px) {
+  body {
+    width: 110%;
+  }
+
   header {
     height: 200px;
   }
@@ -369,6 +381,12 @@ a:nth-child(6) .photo {
   .wrapper-nav a {
     height: 50px;
     font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    width: 120%;
   }
 }
 
@@ -471,6 +489,10 @@ a:nth-child(6) .photo {
     height: 50px;
     font-size: 12px;
   }
+
+  body {
+    width: 150%;
+  }
 }
 
 @media screen and (max-width: 410px) {
@@ -482,15 +504,25 @@ a:nth-child(6) .photo {
   }
 }
 
+@media screen and (max-width: 390px) {
+  body {
+    width: 160%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  body {
+    width: 170%;
+  }
+}
+
 @media screen and (max-width: 340px) {
-  main {
-    padding-top: 20px;
-  }
-
   .list {
-    width: 87%;
+    width: 100%;
   }
-
+  main {
+    margin-top: 0;
+  }
   nav li {
     padding: 10px 5px;
   }
@@ -498,5 +530,8 @@ a:nth-child(6) .photo {
   .wrapper-nav a {
     height: 50px;
     font-size: 12px;
+  }
+    body {
+    width: 190%;
   }
 }
