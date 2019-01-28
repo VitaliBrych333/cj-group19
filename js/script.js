@@ -12,7 +12,6 @@ function load() {
         document.querySelector('.selected').classList.remove('selected');
         e.target.classList.add('selected');
         ['#name', '#main', '#list', '#name-text', '#about', '#target', '#author', '#article'].map(i => document.querySelector(`${i}`).innerHTML === '');
-
         document.querySelector('#name').innerHTML = objTranslate.name;
         document.querySelector('#main').innerHTML = objTranslate.main;
         document.querySelector('#list').innerHTML = objTranslate.list;

@@ -86,12 +86,36 @@ nav li:hover a,
   color: rgb(12, 7, 7);
 }
 
+.custom_select {
+  width: 20%;
+  margin-left: 10px;
+  min-width: 120px;
+}
+
+.custom_select select {
+  color: #868686;
+  vertical-align: middle;
+  font-size: 15px;
+}
+
+.search_select {
+  font-size: 10px;
+  width: 100px;
+  height: 50px;
+}
+
+.search_select option {
+  font-size: 10px;
+  width: 100px;
+  height: 10px;
+}
+
 .search_container {
   height: 20%;
   width: 100%;
   background-color: rgb(10, 70, 181);
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .search_container p {
@@ -108,7 +132,8 @@ nav li:hover a,
   margin-top: 30px;
   width: 15%;
   height: 40%;
-  float: right;
+  display: flex;
+  justify-content: space-between;
 }
 
 .search_form input {
@@ -185,6 +210,7 @@ nav li:hover a,
   margin: auto;
   height: 100%;
   display: flex;
+  min-height: 280px;
 }
 
 .list {
@@ -249,6 +275,12 @@ p.place_of_birth {
   margin-bottom: 15px;
 }
 
+.place_of_birth span {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
 .short_discription {
   max-height: 160px;
   overflow: hidden;
@@ -263,37 +295,6 @@ p.place_of_birth {
   top: 138px;
   background-image: linear-gradient(to bottom, rgba(240, 248, 255, 0), rgba(240, 248, 255, 1) 75%)
 }
-
-/*
-.wrapper_list a::after {
-  height: 100%;
-  content: "";
-  background: rgba(0, 0, 0, 0.8);
-  position: absolute;
-  top: 0;
-  left: 5px;
-  right: 5px;
-  opacity: 0;
-}
-
-.wrapper_list a:hover::after,
-.wrapper_list a:hover::before {
-  opacity: 1;
-  cursor: pointer;
-}
-*/
-
-/*
-.wrapper_list a::before {
-  content: "Hover Text";
-  position: absolute;
-  top: calc(50% - 12px);
-  left: calc(50% - 40px);
-  color: #ffffff;
-  opacity: 0;
-  z-index: 10;
-}
-*/
 
 .photo {
   background-size: cover;
@@ -372,8 +373,20 @@ a:nth-child(6) .photo {
 }
 
 @media screen and (max-width: 500px) {
+  .custom_select {
+    width: 10%;
+  }
+}
+
+@media screen and (max-width: 510px) {
   main {
     margin-top: 10px;
+  }
+
+  .custom_select select {
+    font-size: 10px;
+    padding: 0px;
+    height: 20px;
   }
 
   .search_form {
@@ -433,6 +446,14 @@ a:nth-child(6) .photo {
     padding: 15px 5px;
   }
 
+  .custom_select {
+    width: 2%;
+  }
+
+  .custom_select select {
+    font-size: 10px;
+  }
+
   .search_form {
     padding-right: 0px;
     margin-left: 5px;
@@ -443,12 +464,21 @@ a:nth-child(6) .photo {
   }
 
   .search_form {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
   }
 
   .wrapper-nav a {
     height: 50px;
     font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .custom_select select {
+    font-size: 5px;
+    height: 10px;
+    width: 17px;
+    min-width: 10px;
   }
 }
 
